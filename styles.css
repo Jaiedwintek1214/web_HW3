@@ -177,13 +177,6 @@ body, html {
   height: 100%;
   overflow: hidden; /* 防止滾動 */
 }
-.custom-checkbox .checkmark {
-  width: 18px;
-  height: 18px;
-}
-.custom-checkbox {
-  font-size: 14px;
-}
 .terms-text,
 .alt-login-title,
 .alt-login-bottom {
